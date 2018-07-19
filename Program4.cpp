@@ -1,4 +1,4 @@
-//CPP Program for addition of two numbers using addition() function with call by arguments
+//CPP Program for addition of two numbers using addition() function with call by value
 
 #include<iostream>  //Header file declaration
 
@@ -33,7 +33,7 @@ int main()  //main function
 	cin>>num2;    //accepting input from console		
 		
 		
-	addition(num1,num2); //calling addition function with passing arguments
+	addition(num1,num2); //calling addition function with passing values
 	
 	return 0; 	//returning int value- main function has return type as integer
 	
