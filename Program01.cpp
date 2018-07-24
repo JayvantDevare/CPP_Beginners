@@ -15,6 +15,6 @@ int main()  //main function
 	
 	cout<<" Hello, "<<name; 	//displaying message on console(screen)
 	
-	return 0; 	//returning int value- main function has return type as integer
+	return 0; 	//returning int value- main function has return type as integer.
 	
 }	// end of main function
