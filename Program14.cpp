@@ -1,4 +1,4 @@
-//CPP Program for writing getter and setter methode
+//CPP Program for writing getter and setter method
 //if the data members of class are private we can not access them outside class
 //by using getter and setter methods we can access private data members outside the class
 //using setter method we can validate values
