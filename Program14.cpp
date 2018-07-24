@@ -35,7 +35,7 @@ class FirstClass	//declaration of class
 		return rollno;
 	}
 	
-	void setRollno(int rno)	//setter method for Rollno
+	void setRollno(int rno)	//setter method for Rollno.
 	{
 		 rollno=rno;
 	}
