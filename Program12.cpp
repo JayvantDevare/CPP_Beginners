@@ -1,8 +1,4 @@
-//CPP Program for writing getter and setter methode
-//destructor is a member function of a class which free memory allocated for objects
-//destructor has same name as the class itself
-//denstructor don't have return type and parameters 
-//destructor is automatically get called when program execution is over
+//CPP Program for Constructor and Destructor
 
 
 #include<iostream>  //Header file declaration
