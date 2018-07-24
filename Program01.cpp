@@ -17,4 +17,4 @@ int main()  //main function
 	
 	return 0; 	//returning int value- main function has return type as integer.
 	
-}	// end of main function
+}	// end of main function.
